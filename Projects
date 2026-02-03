@@ -7,3 +7,18 @@ Mini risk engine
 VaR / ES calculation and comparison
 Reproducible data pipeline
 Portfolio construction and analysis
+
+Start:
+1. Vectorized market data analysis
+3. Monte Carlo simulation of asset price
+
+ML část:
+3. Regression model with interpretation
+4. Binary classification (end-to-end ML project)
+5. Anomaly detection system
+
+Risk & engineering finish:
+6. Mini risk engine
+7. VaR / ES calculation and comparison
+8. Portfolio construction and analysis
+9. Reproducible data pipeline
